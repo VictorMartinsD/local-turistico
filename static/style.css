@@ -1,5 +1,25 @@
 :root {
   background-color: #F5F4F0;
+  margin: 30px;
+  font-family: "Open Sans", sans-serif;
+}
+
+#travel-top {
+  width: 1120px;
+  height: 22px;
+  line-height: auto;
+  font-weight: bold;
+  position: relative;
+  top: 10px;
+}
+
+img {
+  border-radius: 28px;
+}
+
+figure {
+  position: relative;
+  margin: 40px 0px;
 }
 
 .text-primary {
@@ -11,31 +31,73 @@
 }
 
 .text-tertiary {
-  color: 696969;
+  color: #696969;
 }
 
-.text-headline {
+.headline {
   color: #E1624F;
 }
 
 h1 {
+  width: 1120px;
+  height: 49px;
   font-size: 36px;
-  font-weight: bold;
-}
-
-h2 {
-  font-size: 32px;
-  font-weight: bold;
-}
-
-h3 {
-  font-size: 28px;
   font-weight: bold;
 }
 
 figcaption {
   font-style: italic;
   font-size: 16px;
+  margin: 24px 0px 40px 0px;
+  text-align: center;
+}
+
+#second-headline {
+  width: 255px;
+  height: 22px;
+  position: relative;
+  text-align: 30px;
+  font-weight: bold;
+  height: auto;
+}
+
+section #content {
+  margin: 64px 0px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  position: relative;
+  bottom: 22px -8px;
+  margin-bottom: 8px;
+}
+
+.resume {
+  margin: 0px;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+  margin: 10px -10px -4px 10px;
+  height: auto;
+}
+
+.history {
+  color:#0C51A7;
+}
+
+#couple {
+  color: #591B98;
+}
+
+#family {
+  color: #E5245E;
+}
+
+#budget {
+  color: #E95E10;
 }
 
 font-family: "Alice", serif;
