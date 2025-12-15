@@ -1,0 +1,43 @@
+:root {
+  background-color: #F5F4F0;
+}
+
+.text-primary {
+  color: #1B1B1B;
+}
+
+.text-secundary {
+  color: #333333;
+}
+
+.text-tertiary {
+  color: 696969;
+}
+
+.text-headline {
+  color: #E1624F;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 28px;
+  font-weight: bold;
+}
+
+figcaption {
+  font-style: italic;
+  font-size: 16px;
+}
+
+font-family: "Alice", serif;
+
+font-family: "Open Sans", sans-serif;
