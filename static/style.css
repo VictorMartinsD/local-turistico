@@ -22,10 +22,6 @@ figure {
   margin: 40px 0px;
 }
 
-.text-primary {
-  color: #1B1B1B;
-}
-
 .text-secundary {
   color: #333333;
 }
@@ -36,6 +32,7 @@ figure {
 
 .headline {
   color: #E1624F;
+  font-size: 16px;
 }
 
 h1 {
@@ -43,6 +40,7 @@ h1 {
   height: 49px;
   font-size: 36px;
   font-weight: bold;
+  color: #1B1B1B;
 }
 
 figcaption {
@@ -59,6 +57,7 @@ figcaption {
   text-align: 30px;
   font-weight: bold;
   height: auto;
+  top: 20px;
 }
 
 section #content {
@@ -71,6 +70,7 @@ h2 {
   position: relative;
   bottom: 22px -8px;
   margin-bottom: 8px;
+  color: #1B1B1B;
 }
 
 .resume {
@@ -82,10 +82,26 @@ h3 {
   font-weight: bold;
   margin: 10px -10px -4px 10px;
   height: auto;
+  color: #1B1B1B;
+}
+
+.good-for {
+  font-weight: bold;
 }
 
 .history {
   color:#0C51A7;
+  margin-bottom: 48px;
+}
+
+ul li {
+  font-weight: bold;
+  margin-top: -15px;
+}
+
+/* Aplica uma margem inferior de 48px aos dois primeiros <li> */
+.space-highlights {
+  margin-bottom: 48px;
 }
 
 #couple {
@@ -98,8 +114,27 @@ h3 {
 
 #budget {
   color: #E95E10;
+  margin-bottom: 40px;
 }
 
-font-family: "Alice", serif;
+footer {
+  text-align: center;
+}
 
-font-family: "Open Sans", sans-serif;
+.separador {
+  width: 100%; /* Ocupa a largura total */
+  height: 1px; /* Define a espessura da linha */
+  background-color: #CCCCCC; /* Define a cor da linha */
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+#credits {
+  font-family: "Alice", serif;
+  margin-top: 60px;
+}
+
+#credits img {
+  position: relative;
+    inset: 3px 20px 0px -2px;
+}
