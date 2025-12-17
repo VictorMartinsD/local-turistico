@@ -1,4 +1,5 @@
 # 🌍 Local Turístico: Conheça Busan
+Este é um projeto de Landing Page que apresenta a cidade de Busan, na Coreia do Sul, destacando seus principais pontos turísticos, história e gastronomia. O layout é limpo, moderno e utiliza conceitos de Design System para tipografia e paleta de cores.
 
 ## 🔗 Deploy
 Você pode conferir o projeto online através do link abaixo:
@@ -13,8 +14,6 @@ Você pode conferir o projeto online através do link abaixo:
   <br>
   <img src="https://github.com/user-attachments/assets/dd765f02-abee-47c4-b3bf-156e78e0f36d" alt="Screenshot do rodapé e continuação da lista de Busan" width="700">
 </p>
-
-Este é um projeto de Landing Page que apresenta a cidade de Busan, na Coreia do Sul, destacando seus principais pontos turísticos, história e gastronomia. O layout é limpo, moderno e utiliza conceitos de Design System para tipografia e paleta de cores.
 
 ## ✨ Tecnologias Utilizadas
 
@@ -49,8 +48,11 @@ O projeto segue um sistema de design específico para garantir a consistência v
 ## 🇺🇸 English Version
 
 ### 🌍 Local Turístico: Discover Busan
-
 This is a Landing Page project that introduces the city of Busan, South Korea, highlighting its main tourist attractions, history, and cuisine. The layout is clean, modern, and utilizes Design System concepts for typography and color palette.
+
+## 🔗 Deploy
+You can check out the project online at the link below:
+[Access Tourist Guide](https://victormartinsd.github.io/local-turistico/)
 
 #### ✨ Technologies Used
 
