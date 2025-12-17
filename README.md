@@ -1,5 +1,9 @@
 # 🌍 Local Turístico: Conheça Busan
 
+## 🔗 Deploy
+Você pode conferir o projeto online através do link abaixo:
+[Acessar Guia de Local Turístico](https://victormartinsd.github.io/local-turistico/)
+
 ## 📸 Preview
 
 <p align="center">
