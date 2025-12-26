@@ -56,7 +56,7 @@ You can check out the project online at the link below:
 
 ## 📸 Preview
 
-docs: fix image link in English section
+(See image in the section above)
 
 #### ✨ Technologies Used
 
