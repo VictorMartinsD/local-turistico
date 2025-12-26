@@ -54,6 +54,10 @@ This is a Landing Page project that introduces the city of Busan, South Korea, h
 You can check out the project online at the link below:
 [Access Tourist Guide](https://victormartinsd.github.io/local-turistico/)
 
+## 📸 Preview
+
+docs: fix image link in English section
+
 #### ✨ Technologies Used
 
 The project was developed using the foundational web technologies:
