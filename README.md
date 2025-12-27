@@ -1,9 +1,11 @@
 # 🌍 Local Turístico: Conheça Busan
+
 Este é um projeto de Landing Page que apresenta a cidade de Busan, na Coreia do Sul, destacando seus principais pontos turísticos, história e gastronomia. O layout é limpo, moderno e utiliza conceitos de Design System para tipografia e paleta de cores.
 
-## 🔗 Deploy
-Você pode conferir o projeto online através do link abaixo:
-[Acessar Guia de Local Turístico](https://victormartinsd.github.io/local-turistico/)
+## 🔗 Links do Projeto
+
+[![Visualizar Projeto](https://img.shields.io/badge/Acessar%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/local-turistico/)
+[![Figma Design](https://img.shields.io/badge/Figma-Design%20Original-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/hHmfKlWnkXBgN4A67d4y7s/Local-Tur%C3%ADstico--Community-?node-id=3-376&p=f&t=8ZL0ZHxNWlsB2uUs-0)
 
 ## 📸 Preview
 
@@ -29,10 +31,10 @@ O projeto segue um sistema de design específico para garantir a consistência v
 
 * **Cores:**
     * **Background Default:** `#F5F4F0`
-    * **Text Primary (H1/H2):** `#1B1B1B` (Cinza Escuro)
+    * **Text Primary (H1/H2):** `#1B1B1B`
     * **Text Secondary (Corpo):** `#333333`
-    * **Headline Principal:** `#E1624F` (Laranja/Vermelho)
-    * **Border Primary:** `#D9D9D9` (Cinza Claro)
+    * **Headline Principal:** `#E1624F`
+    * **Border Primary:** `#D9D9D9`
 
 * **Tipografia:**
     | Elemento | Tamanho (px) | Família |
@@ -44,25 +46,29 @@ O projeto segue um sistema de design específico para garantir a consistência v
     | Créditos | 16px | Alice |
 
 ---
+Desenvolvido por **[Victor Martins Dias]** como parte do programa de formação **[Full-Stack/Rocketseat]**.
 
-## 🇺🇸 English Version
+---
+---
 
 ### 🌍 Local Turístico: Discover Busan
+
 This is a Landing Page project that introduces the city of Busan, South Korea, highlighting its main tourist attractions, history, and cuisine. The layout is clean, modern, and utilizes Design System concepts for typography and color palette.
 
-## 🔗 Deploy
-You can check out the project online at the link below:
-[Access Tourist Guide](https://victormartinsd.github.io/local-turistico/)
+## 🔗 Project Links
+
+[![View Project](https://img.shields.io/badge/Access%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/local-turistico/)
+[![Figma Design](https://img.shields.io/badge/Figma-Original%20Design-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/hHmfKlWnkXBgN4A67d4y7s/Local-Tur%C3%ADstico--Community-?node-id=3-376&p=f&t=8ZL0ZHxNWlsB2uUs-0)
 
 ## 📸 Preview
 
-(See image in the section above)
+(See images in the section above)
 
 #### ✨ Technologies Used
 
-The project was developed using the foundational web technologies:
+The project was developed using foundational web technologies:
 
-* **HTML5:** Structure and semantics of the content.
+* **HTML5:** Structure and content semantics.
 * **CSS3:** Styling, layout, and appearance.
 * **Google Fonts:** Use of 'Alice' and 'Open Sans' fonts.
 
@@ -72,19 +78,10 @@ The project follows a specific design system to ensure visual consistency:
 
 * **Colors:**
     * **Background Default:** `#F5F4F0`
-    * **Text Primary (H1/H2):** `#1B1B1B` (Dark Gray)
+    * **Text Primary (H1/H2):** `#1B1B1B`
     * **Text Secondary (Body):** `#333333`
-    * **Headline Primary:** `#E1624F` (Orange/Red)
-    * **Border Primary:** `#D9D9D9` (Light Gray)
-
-* **Typography:**
-    | Element | Size (px) | Family |
-    | :--- | :--- | :--- |
-    | H1 | 36px | Open Sans Bold |
-    | H2 | 32px | Open Sans Bold |
-    | H3 | 28px | Open Sans Bold |
-    | Paragraph | 16px | Open Sans Regular |
-    | Credits | 16px | Alice |
+    * **Headline Principal:** `#E1624F`
+    * **Border Primary:** `#D9D9D9`
 
 #### 📁 How to Run the Project
 
@@ -92,13 +89,8 @@ The project follows a specific design system to ensure visual consistency:
     ```bash
     git clone [https://github.com/VictorMartinsD/local-turistico](https://github.com/VictorMartinsD/local-turistico)
     ```
-
-2.  **Enter the Directory:**
-    ```bash
-    cd local-turistico
-    ```
-
-3.  **Open the File:**
-    Open the `main.html` file directly in your browser. It contains a small redirect script to the static `index.html`.
+2.  **Open the File:**
+    Open the `main.html` file directly in your browser.
 
 ---
+Developed by **[Victor Martins Dias]** as part of the **[Full-Stack/Rocketseat]** training program.
